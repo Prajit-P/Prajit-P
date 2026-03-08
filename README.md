@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Prajit P
+Aspiring Data Scientist | Certified Data Science Professional by IBM | Python and SQL Programmer | AI/ML Learner
 
-<!--
-**Prajit-P/Prajit-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data science student eagerly working on projects related to Data Science and ML.
 
-Here are some ideas to get you started:
+💻 Skills: Python, SQL, SQLite, Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning courses related to Artificial Intelligence, Big Data Tools & Techniques, DBMS, Design and Analysis of Algorithms, and Probability & Statistics
+
+### 🚀 Featured Projects
+- **[IBM-Data-Science-Portfolio](https://github.com/Prajit-P/IBM-Data-Science-Portfolio)**: A project which was performed during the IBM Data Science Professional Certification Course
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/prajit-p-059383348/)
