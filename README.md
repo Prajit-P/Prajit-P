@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Prajit P
+## Hi there 👋, I'm Prajit Premraj
 Aspiring Data Scientist | Certified Data Science Professional by IBM | Python and SQL Programmer | AI/ML Learner
 
 I am a data science student eagerly working on projects related to Data Science and ML.
